@@ -521,9 +521,14 @@ th:last-child {
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
-    padding: 20px;
-    background: #343642;
-    color: #C1C2C3
+    background: #333;
+    color: #C1C2C3;
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    font-size: 86%;
+    line-height: 1.5
 }
 
 .highlight .hll {
@@ -1041,7 +1046,7 @@ dd {
 
 .post .highlight {
     clear: both;
-    margin-bottom: 2rem
+    margin-bottom: 1.2rem
 }
 
 .post .dropcap {
@@ -1368,7 +1373,7 @@ dd {
         float: left;
         margin-right: 2.12766%;
         float: none;
-        margin: 0 auto 2rem
+        margin: 0 auto 1.2rem
     }
     .post h1,
     .post .h1,
