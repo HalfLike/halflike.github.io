@@ -1,0 +1,29 @@
+title: QINGCUI LU
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://halflike.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Articles
+   url: /articles.html
+ - title: Category
+   url: /category.html
+ - title: About
+   url: /about.html
+
+social:
+   github: halflike
+   email: luqingcuihust@gmail.com
+
+google_analytics: "UA-58263416-1"
