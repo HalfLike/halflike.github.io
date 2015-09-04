@@ -73,7 +73,8 @@ strong {
 }
 
 blockquote {
-    margin: 1.5em 40px
+    margin: 1em 40px;
+    color: steelblue
 }
 
 dfn {
@@ -753,15 +754,17 @@ h4,
 }
 
 blockquote {
-    font-size: 1.25em;
+    font-size: 1em;
     line-height: 1.25;
-    padding: 0
+    padding: 0;
+    color: steelblue
 }
 
 @media (min-width: 43.75em) {
     blockquote {
-        font-size: 1.5em;
-        line-height: 1.45833333
+        font-size: 1em;
+        line-height: 1.45833333;
+        color: steelblue
     }
 }
 

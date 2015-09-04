@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Itellij Idea 常用快捷键"
-categories: ios
+categories: tools
 date:       2015-8-1
 ---
 
