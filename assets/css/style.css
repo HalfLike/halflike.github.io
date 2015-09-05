@@ -527,8 +527,8 @@ th:last-child {
     padding-right: 20px;
     padding-bottom: 0px;
     padding-left: 20px;
-    font-size: 86%;
-    line-height: 1.5
+    font-size: 80%;
+    line-height: 1.4
 }
 
 .highlight .hll {
@@ -1041,7 +1041,7 @@ dd {
 }
 
 .post img {
-    margin-bottom: 2rem
+    margin-bottom: 0rem
 }
 
 .post .highlight {
