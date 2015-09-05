@@ -528,7 +528,9 @@ th:last-child {
     padding-bottom: 0px;
     padding-left: 20px;
     font-size: 80%;
-    line-height: 1.4
+    line-height: 1.4;
+    margin: 0 auto 1.2rem;
+    width: 91%
 }
 
 .highlight .hll {
@@ -802,7 +804,7 @@ html {
 body {
     font-family: "PT Serif", Georgia, Times, serif;
     line-height: 1.75;
-    font-size: 112.5%;
+    font-size: 108%;
     color: #111;
     overflow-x: hidden
 }
