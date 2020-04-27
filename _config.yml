@@ -19,8 +19,8 @@ navigation:
 #    url: /articles.html
 #  - title: Category
 #    url: /category.html
- - title: About
-   url: /aaa.html
+#  - title: About
+#    url: /about.html
 
 social:
    github: halflike
