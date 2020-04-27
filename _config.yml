@@ -15,12 +15,12 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Articles
-   url: /articles.html
- - title: Category
-   url: /category.html
+#  - title: Articles
+#    url: /articles.html
+#  - title: Category
+#    url: /category.html
  - title: About
-   url: /about.html
+   url: /aaa.html
 
 social:
    github: halflike
